@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class day2_stdin_and_stdout.java {
+public class day2_stdin_and_stdout {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
